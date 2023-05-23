@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jeremy</h1>
-<h3 align="center">A passionate frontend developer and instructor from Hartford, CSIndia</h3>
+<h3 align="center">A passionate frontend developer and instructor from Hartford, CT</h3>
 
 - 💬 Ask me about **react, django**
 
